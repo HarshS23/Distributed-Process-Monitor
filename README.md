@@ -1,4 +1,4 @@
-# Distributed Process Monitor
+# Distributed System Monitor
 
 A C++ distributed system that monitors running processes across multiple remote machines using TCP/IP sockets and a custom command protocol.
 
