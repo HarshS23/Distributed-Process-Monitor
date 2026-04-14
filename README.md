@@ -28,3 +28,6 @@ make
 | `-p` | Listening port number |
 
 ## Sample Output
+N=1
+129.128.29.32::gnome-terminal-server(7605) -- bash(7626)
+129.128.29.33::gnome-terminal-server(7605) -- bash(7626)
