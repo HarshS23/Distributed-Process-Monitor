@@ -31,3 +31,7 @@ make
 N=1
 129.128.29.32::gnome-terminal-server(7605) -- bash(7626)
 129.128.29.33::gnome-terminal-server(7605) -- bash(7626)
+
+N=2
+129.128.29.32::gnome-terminal-server(7605) -- bash(7626)
+129.128.29.33::gnome-terminal-server(7605) -- bash(7626)
